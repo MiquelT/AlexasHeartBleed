@@ -1,0 +1,7 @@
+google.com 443
+facebook.com
+twitter.com
+wikipedia.org
+yahoo.com
+
+
