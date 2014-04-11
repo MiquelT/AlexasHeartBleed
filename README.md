@@ -1,7 +1,7 @@
-# Alexas HeadBleed
+# Alexas HeartBleed
 =========
 
-Alexas HeadBleed permite detectar la vulnerabilidad HeadBleed en los dominios más visitados según el ranking de Alexas. Se puede mirar tanto por el ranking global como por Paises.
+Alexas HeartBleed permite detectar la vulnerabilidad HeartBleed en los dominios más visitados según el ranking de Alexas. Se puede mirar tanto por el ranking global como por Paises.
 También puede pasarle un fichero con urls para que detecte si también son dominios vulnerables.
 
 
